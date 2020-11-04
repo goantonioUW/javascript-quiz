@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Quiz</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../02-Homework/Assets/style.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md fixed-top">
+      <div class="container">
+            <div id="highscore" class="nav-item nav-link">High Scores</div>
+            <h1 id="navbar-title">JavaScript Quiz!</h1>
+            <table id=timers style="visibility: hidden;">
+              <tr>
+                <td> Time left in Game: </td>
+                <td> <span id="gameTimer" class="nav-item"></span> </td>
+              </tr>
+               <tr>
+                <td>Time left for Question:</td>
+                <td> <span id="quesTimer" class="nav-item"></span> </td>
+              </tr>
+            </table>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <section id="details"> </section>
+    </div>    
+  
+    <nav class="navbar fixed-bottom footer">
+      <marquee>  
+      <div class="footer-text">GOOD LUCK!!!</div>
+    </marquee>
+    </nav>
+
+    <script defer src="../02-Homework/Assets/java.js"></script>
+    <script src="../02-Homework/Assets/questions.js"></script>
+  </body>
+</html>
