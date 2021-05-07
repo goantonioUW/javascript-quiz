@@ -14,7 +14,7 @@
 
   ## Example
   
-   (./images/quiz.gif)
+   [altText](./images/quiz.gif)
    [![screenshot](https://github.com/goantonioUW/employee-directory/blob/main/images/Screenshot.png)](./images/demoGif.gif)
 
   ## Questions
