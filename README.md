@@ -5,6 +5,7 @@
   ## Table Of Contents
   - [Description](#description)
   - [Example](#example)
+  - [Live-App](#Live-App)
   - [Questions](#questions)
 
   ## Description 
@@ -14,8 +15,10 @@
 
   ## Example
   
-   [altText](./images/quiz.gif)
-   [![screenshot](https://github.com/goantonioUW/employee-directory/blob/main/images/Screenshot.png)](./images/demoGif.gif)
+   [![screenshot](https://github.com/goantonioUW/javascript-quiz/blob/master/images/Screenshot.png)](./images/quiz.gif)
+
+   ## Live-App
+   https://goantoniouw.github.io/javascript-quiz/
 
   ## Questions
   Please reach out to me at:
