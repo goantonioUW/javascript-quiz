@@ -14,7 +14,7 @@ Save your score once the game is over and view your progress by clicking the hig
 
   ## Example
   
-  ![alt text](https://github.com/goantonioUW/javascript-quiz/raw/master/src/assets/images/quiz.gif "Logo Title Text 1")
+   [![screenshot](https://github.com/goantonioUW/javascript-quiz/blob/main/images/Screenshot.png)](./images/quiz.gif)
 
   ## Questions
   Please reach out to me at:
