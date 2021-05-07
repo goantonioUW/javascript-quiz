@@ -14,7 +14,8 @@ Save your score once the game is over and view your progress by clicking the hig
 
   ## Example
   
-   [![screenshot](https://github.com/goantonioUW/javascript-quiz/blob/master/assets/images/Screenshot.png)](./images/quiz.gif)
+   [![screenshot](https://github.com/goantonioUW/javascript-quiz/blob/master/assets/images/Screenshot.png)](./assets/images/quiz.gif)
+   [![screenshot](https://github.com/goantonioUW/employee-directory/blob/main/images/Screenshot.png)](./images/demoGif.gif)
 
   ## Questions
   Please reach out to me at:
