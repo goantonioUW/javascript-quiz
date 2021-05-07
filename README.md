@@ -14,7 +14,7 @@
 
   ## Example
   
-   [![screenshot](https://github.com/goantonioUW/javascript-quiz/blob/master/images/Screenshot.png)](./images/quiz.gif)
+   (./images/quiz.gif)
    [![screenshot](https://github.com/goantonioUW/employee-directory/blob/main/images/Screenshot.png)](./images/demoGif.gif)
 
   ## Questions
